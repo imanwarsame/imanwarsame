@@ -7,9 +7,11 @@ Highly skilled professional specialising in automating and digitalizing civil en
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iwarsame38@gmail.com)](mailto:iwarsame38@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-imanwarsame-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/imanwarsame/)](https://www.linkedin.com/in/imanwarsame/)
 
-<br/><br/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imanwarsame.imanwarsame)
 
-## 💻 Technologies
+<br/>
+
+## 🤖 Languages and Technologies
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,10 +28,8 @@ Highly skilled professional specialising in automating and digitalizing civil en
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imanwarsame&show_icons=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanwarsame&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imanwarsame.imanwarsame)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imanwarsame&show_icons=true&count_private=true)
 
 </div>
